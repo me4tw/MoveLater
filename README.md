@@ -45,9 +45,9 @@ are empty.
 
 Wildcards are not supported at this time.
 
-Revision History:
-  v1.02 Added SetAllowProtectedRenames for WFP protected files.
+#Revision History:
+  - v1.02 Added SetAllowProtectedRenames for WFP protected files.
          + credit for this change goes to Peter Kovacs.
-  v1.01        Added awareness of WFP/SFC (Win2000+).
+  - v1.01        Added awareness of WFP/SFC (Win2000+).
             Cleaned up portions of code
-  v1.00        Initial Release
+  - v1.00        Initial Release
